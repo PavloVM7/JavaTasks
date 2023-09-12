@@ -31,7 +31,7 @@ public final class AbsBinarySearch {
             } else {
                 last = mid - 1;
             }
-            mid = (first + last) / 2;
+            mid = (first + last) >> 1;
         }
         return -1;
     }

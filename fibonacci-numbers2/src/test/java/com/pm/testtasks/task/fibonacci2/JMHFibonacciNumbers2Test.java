@@ -12,7 +12,7 @@ import java.util.concurrent.TimeUnit;
 @State(Scope.Benchmark)
 //@Fork(value = 3, warmups = 1)
 public class JMHFibonacciNumbers2Test {
-    private static final int number = 50;
+    private static final int number = 30;
 
     public static void main(String[] args) throws RunnerException {
         Options opt = new OptionsBuilder()
@@ -26,7 +26,7 @@ public class JMHFibonacciNumbers2Test {
     }
 
     @Benchmark
-    @OutputTimeUnit(TimeUnit.SECONDS)
+    @OutputTimeUnit(TimeUnit.MILLISECONDS)
     public int calculateRecursion() {
         return FibonacciNumbers2.calculateRecursion(number);
     }
