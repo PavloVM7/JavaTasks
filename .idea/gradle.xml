@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/abssortedarray" />
+            <option value="$PROJECT_DIR$/counting-integers" />
+            <option value="$PROJECT_DIR$/counting-integers2" />
+            <option value="$PROJECT_DIR$/division" />
+            <option value="$PROJECT_DIR$/dyncallmethod" />
+            <option value="$PROJECT_DIR$/excelcolumnnames" />
+            <option value="$PROJECT_DIR$/fibonacci-numbers" />
+            <option value="$PROJECT_DIR$/fizz-buzz" />
+            <option value="$PROJECT_DIR$/flatten" />
+            <option value="$PROJECT_DIR$/merge-classnames" />
+            <option value="$PROJECT_DIR$/parse-csv" />
+            <option value="$PROJECT_DIR$/rate-limiter" />
+            <option value="$PROJECT_DIR$/rgb-color-formatter" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
