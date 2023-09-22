@@ -22,6 +22,7 @@
             <option value="$PROJECT_DIR$/fill-matrix" />
             <option value="$PROJECT_DIR$/fizz-buzz" />
             <option value="$PROJECT_DIR$/flatten" />
+            <option value="$PROJECT_DIR$/integertowords" />
             <option value="$PROJECT_DIR$/merge-classnames" />
             <option value="$PROJECT_DIR$/parse-csv" />
             <option value="$PROJECT_DIR$/rate-limiter" />
