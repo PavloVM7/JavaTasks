@@ -25,6 +25,7 @@
             <option value="$PROJECT_DIR$/integertowords" />
             <option value="$PROJECT_DIR$/intersection-of-linked-list" />
             <option value="$PROJECT_DIR$/isomorphic-strings" />
+            <option value="$PROJECT_DIR$/linked-list-cycle-detecion" />
             <option value="$PROJECT_DIR$/merge-classnames" />
             <option value="$PROJECT_DIR$/parse-csv" />
             <option value="$PROJECT_DIR$/rate-limiter" />
